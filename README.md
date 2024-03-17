@@ -1,4 +1,4 @@
-<div width="700px">
+<div style="width:700px;">
 ## Hello 👋
 
 ### I'm Bharath Hunkunda Sreenivasa
