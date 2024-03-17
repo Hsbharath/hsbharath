@@ -8,7 +8,7 @@ I'm a web developer with 7 years experience. Skilled in building responsive webs
 
 
 ### Skills
-<img src = "https://raw.githubusercontent.com/Hsbharath/repo-images/master/Skills.png?token=GHSAT0AAAAAACPV4IR4KDKLGLPVGJJ3GQ32ZPWUVIQ" width = 300 height= 300/>
+<img src = "https://raw.githubusercontent.com/Hsbharath/repo-images/master/Skills.png?token=GHSAT0AAAAAACPV4IR4KDKLGLPVGJJ3GQ32ZPWUVIQ" width = 700 height= 400/>
 
 
 <!--
