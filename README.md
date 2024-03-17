@@ -1,3 +1,4 @@
+<div width="700px">
 ## Hello 👋
 
 ### I'm Bharath Hunkunda Sreenivasa
@@ -12,7 +13,7 @@ and contributing to project success.</p>
 ### Skills
 <img src = "https://raw.githubusercontent.com/Hsbharath/repo-images/master/Skills.png?token=GHSAT0AAAAAACPV4IR4KDKLGLPVGJJ3GQ32ZPWUVIQ" width = 700 height= 400/>
 
-
+</div>
 <!--
 **Hsbharath/hsbharath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
