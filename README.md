@@ -2,9 +2,9 @@
 
 ### I'm Bharath Hunkunda Sreenivasa
 
-I'm a web developer with 7 years experience. Skilled in building responsive websites and web applications, with focus on usability. 
+<p style='width: "700px", text-align: justify'>I'm a web developer with 7 years experience. Skilled in building responsive websites and web applications, with focus on usability. 
 Strong problem-solving and commitment to staying updated with industry trends. Passionate about creating user-friendly experiences 
-and contributing to project success.
+and contributing to project success.</p>
 
 ### Contact
 
