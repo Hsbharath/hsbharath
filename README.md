@@ -11,7 +11,7 @@ and contributing to project success.</p>
 📧 hsbharath01@gmail.com  -  📱 +1 (234)-281-5147  - 👨‍💻 [hsbharath.dev](https://hsbharath.dev) - 📍 Seattle, WA
 
 ### Skills
-<img src = "https://raw.githubusercontent.com/Hsbharath/repo-images/master/Skills.png?token=GHSAT0AAAAAACPV4IR4KDKLGLPVGJJ3GQ32ZPWUVIQ" width = 700 height= 400/>
+<img src = "https://raw.githubusercontent.com/Hsbharath/repo-images/master/Skills.png?token=GHSAT0AAAAAACPV4IR57BBWPTCBQYH6DUZEZPWVFZQ" width = 700 height= 400/>
 
 <!--
 **Hsbharath/hsbharath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
