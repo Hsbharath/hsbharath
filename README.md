@@ -1,5 +1,5 @@
 
-## Hello 👋
+## HELLO 👋
 
 ### I'm Bharath Hunkunda Sreenivasa
 
@@ -7,11 +7,23 @@
 Strong problem-solving and commitment to staying updated with industry trends. Passionate about creating user-friendly experiences 
 and contributing to project success.</p>
 
-### Contact
+### CONTACT
 📧 hsbharath01@gmail.com  -  📱 +1 (234)-281-5147  - 👨‍💻 [hsbharath.dev](https://hsbharath.dev) - 📍 Seattle, WA
 
-### Skills
-<img src = "https://raw.githubusercontent.com/Hsbharath/repo-images/master/Skills.png?token=GHSAT0AAAAAACPV4IR57BBWPTCBQYH6DUZEZPWVFZQ" width = 700 height= 400/>
+### SKILLS
+HTML - CSS - Javascript - Typescript - React - Angular - Bootstrap - Tailwind - Bulma 
+jQuery - Node.js - Express - Redux - NgRx - MSSQL - MySQL - GraphQL - PostgreSQL - MongoDB
+Redis - Azure - AWS - Git - Bitbucket - Docker - Jest - Jasmine - Cypress - Power BI
+
+### TECHNICAL SKILLS
+ * Advanced knowledge of software engineering principles, encompassing all stages of software development lifecycle
+ * Proficient in architectural patterns and software design, emphasizing SOLID, DRY and KISS principles for scalable and maintainable code
+
+### PROFESSIONAL SKILLS
+ * Committed to continuous learning and professional growth
+ * Agile and versatile in adapting to various technologies and development tools
+ * Proactive in finding optimal solutions to complex problems
+ * Clear and frequent communication within team settings, ensuring transparency and collaboration
 
 <!--
 **Hsbharath/hsbharath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
